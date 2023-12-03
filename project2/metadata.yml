@@ -1,0 +1,14 @@
+---
+:id: 101669426
+:submitters:
+- :name: Lei Hao
+  :email: xiayushan@berkeley.edu
+- :name: Yuqi Hu
+  :email: fredhu0514@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-22 06:20:15.000120000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-21 22:20:15.000120000 Z
+:status: processed
+:score: 99.488
